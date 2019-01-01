@@ -18,7 +18,7 @@ def break_dance
        break
      end
     puts "Right"
-    sleep(0.5)
+    sleep(2)
     puts "left"
     sleep(0.5)
     counter = counter + 1
